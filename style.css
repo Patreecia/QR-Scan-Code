@@ -19,6 +19,8 @@ main {
 img {
    padding: 20px 20px;
    border-radius: 30px;  
+   width: 16.25rem;
+   height: 15.265rem;
 }
 
 h1 {
